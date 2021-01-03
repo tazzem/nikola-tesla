@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: crimson
+        
+}
+section{
+    background-color: aqua;
+    height: 600px;
+    
+}
+img{
+    height: 300px;
+    width:400px;
+}
